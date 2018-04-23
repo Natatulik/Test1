@@ -17,3 +17,12 @@ C:\Users\NATOFGOD\Documents\github\Test1\Game2\Game2\obj\Debug\Game2.csprojResol
 C:\Users\NATOFGOD\Documents\github\Test1\Game2\Game2\obj\Debug\Game2.Form1.resources
 C:\Users\NATOFGOD\Documents\github\Test1\Game2\Game2\obj\Debug\Game2.Properties.Resources.resources
 C:\Users\NATOFGOD\Documents\github\Test1\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.Cache
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\bin\Debug\Game2.exe.config
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\obj\Debug\Game2.exe
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\obj\Debug\Game2.pdb
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\bin\Debug\Game2.exe
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\bin\Debug\Game2.pdb
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\obj\Debug\Game2.csprojResolveAssemblyReference.cache
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\obj\Debug\Game2.Form1.resources
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\obj\Debug\Game2.Properties.Resources.resources
+C:\Users\NATOFGOD\Documents\github2\Test1\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.Cache
